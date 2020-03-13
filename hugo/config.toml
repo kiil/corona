@@ -10,6 +10,21 @@ Paginate = 12
 googleAnalytics = ""
 enableRobotsTXT = true
 
+[languages]
+  [languages.en]
+    title = "My blog"
+    weight = 1
+    [languages.en.params]
+      linkedin = "https://linkedin.com/whoever"
+  [languages.da]
+    title = "Mon blogue"
+    weight = 2
+    [languages.da.params]
+      linkedin = "https://linkedin.com/fr/whoever"
+      [languages.fr.params.navigation]
+        help = "Aide"
+
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
