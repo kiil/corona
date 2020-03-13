@@ -1,0 +1,8 @@
+
+  {{ range .Params.skribenter }}
+
+     <a href="{{ "/skribenter/" | relLangURL }}{{ . | urlize }}" class="link mid-gray fw6" rel="author">
+       {{humanize . -}}
+     </a>
+
+  {{ end }}
