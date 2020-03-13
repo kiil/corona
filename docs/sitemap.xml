@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.20-coronavirus-20.com/post/chapter-7/</loc>
+    <lastmod>2020-03-09T11:25:05-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.20-coronavirus-20.com/</loc>
     <lastmod>2020-03-09T11:25:05-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -11,7 +18,7 @@
   
   <url>
     <loc>https://www.20-coronavirus-20.com/post/chapter-6/</loc>
-    <lastmod>2020-03-09T11:25:05-04:00</lastmod>
+    <lastmod>2020-02-21T11:15:58-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -68,6 +75,12 @@
   <url>
     <loc>https://www.20-coronavirus-20.com/post/</loc>
     <lastmod>2020-01-08T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.20-coronavirus-20.com/_index.da/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

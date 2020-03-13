@@ -1,9 +1,9 @@
 ---
-date: 2020-03-09T11:25:05-04:00
-description: "The silent spring"
-# featured_image: "/images/esmeralda.jpg"
+date: 2020-02-21T11:15:58-04:00
+description: "Nothing to see here"
+featured_image: ""
 tags: []
-title: "Chapter VI: A world wihout people"
-disable_share: false
+title: "Chapter VI: Denmark - a special case of stupid"
 ---
-Empty streets ...
+
+Danish authorities started by shaming people making ...
