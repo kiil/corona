@@ -1,4 +1,4 @@
-title = "www.20-coronavirus-20.com"
+title = "Coronavirus 2020 Catastrophe"
 baseURL = "https://www.20-coronavirus-20.com"
 languageCode = "en-us"
 theme = "ananke"
@@ -6,7 +6,7 @@ theme = "ananke"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 12
 googleAnalytics = ""
 enableRobotsTXT = true
 
