@@ -1,130 +1,130 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tools on Kiils</title>
-    <link>https://www.kiils.dk/tools/</link>
-    <description>Recent content in Tools on Kiils</description>
+    <title>Tools on The 2020 coronavirus outbreak</title>
+    <link>https://www.20-coronavirus-20.com/tools/</link>
+    <description>Recent content in Tools on The 2020 coronavirus outbreak</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>da-dk</language>
+    <language>en-us</language>
     <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.kiils.dk/tools/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.20-coronavirus-20.com/tools/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Googles-søgekonsol</title>
-      <link>https://www.kiils.dk/tools/googles-s%C3%B8gekonsol/</link>
+      <link>https://www.20-coronavirus-20.com/tools/googles-s%C3%B8gekonsol/</link>
       <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/tools/googles-s%C3%B8gekonsol/</guid>
+      <guid>https://www.20-coronavirus-20.com/tools/googles-s%C3%B8gekonsol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git</title>
-      <link>https://www.kiils.dk/tools/git/</link>
+      <link>https://www.20-coronavirus-20.com/tools/git/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/tools/git/</guid>
+      <guid>https://www.20-coronavirus-20.com/tools/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ssh</title>
-      <link>https://www.kiils.dk/tools/ssh/</link>
+      <link>https://www.20-coronavirus-20.com/tools/ssh/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/tools/ssh/</guid>
+      <guid>https://www.20-coronavirus-20.com/tools/ssh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>donorbox</title>
-      <link>https://www.kiils.dk/tools/donorbox/</link>
+      <link>https://www.20-coronavirus-20.com/tools/donorbox/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/tools/donorbox/</guid>
+      <guid>https://www.20-coronavirus-20.com/tools/donorbox/</guid>
       <description></description>
     </item>
     
     <item>
       <title>javascript</title>
-      <link>https://www.kiils.dk/tools/javascript/</link>
+      <link>https://www.20-coronavirus-20.com/tools/javascript/</link>
       <pubDate>Wed, 28 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/tools/javascript/</guid>
+      <guid>https://www.20-coronavirus-20.com/tools/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>https://www.kiils.dk/tools/markdown/</link>
+      <link>https://www.20-coronavirus-20.com/tools/markdown/</link>
       <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/tools/markdown/</guid>
+      <guid>https://www.20-coronavirus-20.com/tools/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>perl</title>
-      <link>https://www.kiils.dk/tools/perl/</link>
+      <link>https://www.20-coronavirus-20.com/tools/perl/</link>
       <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/tools/perl/</guid>
+      <guid>https://www.20-coronavirus-20.com/tools/perl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>terminal</title>
-      <link>https://www.kiils.dk/tools/terminal/</link>
+      <link>https://www.20-coronavirus-20.com/tools/terminal/</link>
       <pubDate>Sat, 27 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/tools/terminal/</guid>
+      <guid>https://www.20-coronavirus-20.com/tools/terminal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bootstrap-4</title>
-      <link>https://www.kiils.dk/tools/bootstrap-4/</link>
+      <link>https://www.20-coronavirus-20.com/tools/bootstrap-4/</link>
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/tools/bootstrap-4/</guid>
+      <guid>https://www.20-coronavirus-20.com/tools/bootstrap-4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Drupal 8</title>
-      <link>https://www.kiils.dk/tools/drupal-8/</link>
+      <link>https://www.20-coronavirus-20.com/tools/drupal-8/</link>
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/tools/drupal-8/</guid>
+      <guid>https://www.20-coronavirus-20.com/tools/drupal-8/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pantheon</title>
-      <link>https://www.kiils.dk/tools/pantheon/</link>
+      <link>https://www.20-coronavirus-20.com/tools/pantheon/</link>
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/tools/pantheon/</guid>
+      <guid>https://www.20-coronavirus-20.com/tools/pantheon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tachyons</title>
-      <link>https://www.kiils.dk/tools/tachyons/</link>
+      <link>https://www.20-coronavirus-20.com/tools/tachyons/</link>
       <pubDate>Tue, 11 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/tools/tachyons/</guid>
+      <guid>https://www.20-coronavirus-20.com/tools/tachyons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>google-analytics</title>
-      <link>https://www.kiils.dk/tools/google-analytics/</link>
+      <link>https://www.20-coronavirus-20.com/tools/google-analytics/</link>
       <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/tools/google-analytics/</guid>
+      <guid>https://www.20-coronavirus-20.com/tools/google-analytics/</guid>
       <description></description>
     </item>
     

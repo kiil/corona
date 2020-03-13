@@ -1,85 +1,85 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FOLKETS on Kiils</title>
-    <link>https://www.kiils.dk/cases/folkets/</link>
-    <description>Recent content in FOLKETS on Kiils</description>
+    <title>FOLKETS on The 2020 coronavirus outbreak</title>
+    <link>https://www.20-coronavirus-20.com/cases/folkets/</link>
+    <description>Recent content in FOLKETS on The 2020 coronavirus outbreak</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>da-dk</language>
+    <language>en-us</language>
     <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.kiils.dk/cases/folkets/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.20-coronavirus-20.com/cases/folkets/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Er det sådan censur ser ud?</title>
-      <link>https://www.kiils.dk/erfaringer/seo/corona/</link>
+      <link>https://www.20-coronavirus-20.com/erfaringer/seo/corona.da/</link>
       <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaringer/seo/corona/</guid>
+      <guid>https://www.20-coronavirus-20.com/erfaringer/seo/corona.da/</guid>
       <description>Eller er Googles veje bare uransagelige</description>
     </item>
     
     <item>
       <title>En langsom pinefuld død på Facebook</title>
-      <link>https://www.kiils.dk/erfaringer/some/facebook/fald/</link>
+      <link>https://www.20-coronavirus-20.com/erfaringer/some/facebook/fald.da/</link>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaringer/some/facebook/fald/</guid>
+      <guid>https://www.20-coronavirus-20.com/erfaringer/some/facebook/fald.da/</guid>
       <description>Facebook har ændret sig - hvordan får man succes?</description>
     </item>
     
     <item>
       <title>Mellemrubrikker som indholdsoversigt</title>
-      <link>https://www.kiils.dk/erfaringer/journalistik/mellemrubrikker-indholdsoversigt/</link>
+      <link>https://www.20-coronavirus-20.com/erfaringer/journalistik/mellemrubrikker-indholdsoversigt.da/</link>
       <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaringer/journalistik/mellemrubrikker-indholdsoversigt/</guid>
+      <guid>https://www.20-coronavirus-20.com/erfaringer/journalistik/mellemrubrikker-indholdsoversigt.da/</guid>
       <description>Det handler om at give læseren overblik</description>
     </item>
     
     <item>
       <title>Hvad betyder ankertekst?</title>
-      <link>https://www.kiils.dk/erfaringer/seo/hvad-betyder-ankertekst/</link>
+      <link>https://www.20-coronavirus-20.com/erfaringer/seo/hvad-betyder-ankertekst.da/</link>
       <pubDate>Tue, 06 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaringer/seo/hvad-betyder-ankertekst/</guid>
+      <guid>https://www.20-coronavirus-20.com/erfaringer/seo/hvad-betyder-ankertekst.da/</guid>
       <description>I SEO-sprog nævnes ofte ankertekst, men hvad er det egentligt?</description>
     </item>
     
     <item>
       <title>FOLKETS meget hurtigere efter drop af bannere</title>
-      <link>https://www.kiils.dk/erfaringer/frontend/hastighed-uden-bannere/</link>
+      <link>https://www.20-coronavirus-20.com/erfaringer/frontend/hastighed-uden-bannere.da/</link>
       <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaringer/frontend/hastighed-uden-bannere/</guid>
+      <guid>https://www.20-coronavirus-20.com/erfaringer/frontend/hastighed-uden-bannere.da/</guid>
       <description>Nu er der data nok til at konkludere noget mere håndfast.</description>
     </item>
     
     <item>
       <title>Lovende Google Discover klikrate (CTR)</title>
-      <link>https://www.kiils.dk/erfaringer/seo/lovende-ctr-google-discover/</link>
+      <link>https://www.20-coronavirus-20.com/erfaringer/seo/lovende-ctr-google-discover.da/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaringer/seo/lovende-ctr-google-discover/</guid>
+      <guid>https://www.20-coronavirus-20.com/erfaringer/seo/lovende-ctr-google-discover.da/</guid>
       <description>Googles Discover kan godt komme til at spille en rolle for trafik</description>
     </item>
     
     <item>
       <title>Det nemmeste CSS framework</title>
-      <link>https://www.kiils.dk/erfaringer/frontend/bootstrap-4/</link>
+      <link>https://www.20-coronavirus-20.com/erfaringer/frontend/bootstrap-4.da/</link>
       <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaringer/frontend/bootstrap-4/</guid>
+      <guid>https://www.20-coronavirus-20.com/erfaringer/frontend/bootstrap-4.da/</guid>
       <description>Bootstrap 4 er næppe det nemmeste og hurtigste at prototype i længere. Og lidt for tungt hvis man virkelig går op i hastighed også på langsommere mobilforbindelser.</description>
     </item>
     
     <item>
       <title>Google belønner tidlig indsats</title>
-      <link>https://www.kiils.dk/erfaringer/seo/google-tidlig-indsats/</link>
+      <link>https://www.20-coronavirus-20.com/erfaringer/seo/google-tidlig-indsats.da/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaringer/seo/google-tidlig-indsats/</guid>
+      <guid>https://www.20-coronavirus-20.com/erfaringer/seo/google-tidlig-indsats.da/</guid>
       <description>Små medier kan markere sig ved at være først med på internationale navne. Og det er tilsyneladende også noget som giver bonus i søgeresultaterne.
 For ikke så længe tid siden skrev jeg et indlæg her på Kiils med titlen: Når de små medier overhaler de store :
  De små medier er generelt mere manøvredygtige end de store. Det gælder også på indholdsstrategien.
@@ -88,10 +88,10 @@ Det betyder at små medier kan reagere hurtigt på internationale trends.</descr
     
     <item>
       <title>Om oplevelser og langsigtet indholdsstrategi</title>
-      <link>https://www.kiils.dk/erfaringer/indhold/om-oplevelser-og-langsigtet-indholdsstrategi/</link>
+      <link>https://www.20-coronavirus-20.com/erfaringer/indhold/om-oplevelser-og-langsigtet-indholdsstrategi.da/</link>
       <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaringer/indhold/om-oplevelser-og-langsigtet-indholdsstrategi/</guid>
+      <guid>https://www.20-coronavirus-20.com/erfaringer/indhold/om-oplevelser-og-langsigtet-indholdsstrategi.da/</guid>
       <description>Præmisserne på internettet ændrer sig hele tiden.
 Kan det så overhovedet betale sig at tænke langsigtet?
 Ja!
@@ -102,10 +102,10 @@ Og det gør for eksempel Googles søgemaskine i min erfaring.
     
     <item>
       <title>En redningsplan for Folkets Avis – sådan tilpasser jeg mig for at overleve</title>
-      <link>https://www.kiils.dk/erfaringer/muren/redning/</link>
+      <link>https://www.20-coronavirus-20.com/erfaringer/muren/redning.da/</link>
       <pubDate>Tue, 22 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaringer/muren/redning/</guid>
+      <guid>https://www.20-coronavirus-20.com/erfaringer/muren/redning.da/</guid>
       <description>Folkets Avis er enestående i den forstand at mediet i modsætning til den øvrige danske presse fungerer helt uden mediestøtte.
 Det gør at den er skarpere end de andre medier i sin kritik af systemet og politikerne. Og det er godt for demokratiet.
 Men det skal heller ikke være nogen hemmelighed at det er lidt af en udfordring at få sådan en størrelse til at løbe rundt og give overskud.</description>
@@ -113,19 +113,19 @@ Men det skal heller ikke være nogen hemmelighed at det er lidt af en udfordring
     
     <item>
       <title>Får jeg abonnenter nok til at leve af mit online-medie?</title>
-      <link>https://www.kiils.dk/erfaringer/abo/abonnenter-nok/</link>
+      <link>https://www.20-coronavirus-20.com/erfaringer/abo/abonnenter-nok.da/</link>
       <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaringer/abo/abonnenter-nok/</guid>
+      <guid>https://www.20-coronavirus-20.com/erfaringer/abo/abonnenter-nok.da/</guid>
       <description>Sandsynligvis ikke</description>
     </item>
     
     <item>
       <title>Sociale medier vigtige – men husk de andre trafikkilder</title>
-      <link>https://www.kiils.dk/erfaringer/trafik/kilder/</link>
+      <link>https://www.20-coronavirus-20.com/erfaringer/trafik/kilder.da/</link>
       <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaringer/trafik/kilder/</guid>
+      <guid>https://www.20-coronavirus-20.com/erfaringer/trafik/kilder.da/</guid>
       <description>2017 var et rekordår for Folkets Avis på mange måder.
 Således var også de samlede antal sidevisninger højere end noget tidligere år.
 Ser vi på anskaffelse skete der noget lidt overraskende. I hvert fald når man tager i betratning at antallet af fans på Folkets Avis Facebook side voksede pænt hen over året og nærmede sig 10.000 ved dets afslutning.
@@ -134,10 +134,10 @@ For på trods af stigningen faldt antallet af brugere som blev sendt til Folkets
     
     <item>
       <title>Når de små medier overhaler de store</title>
-      <link>https://www.kiils.dk/erfaringer/indhold/overhaling/</link>
+      <link>https://www.20-coronavirus-20.com/erfaringer/indhold/overhaling.da/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.kiils.dk/erfaringer/indhold/overhaling/</guid>
+      <guid>https://www.20-coronavirus-20.com/erfaringer/indhold/overhaling.da/</guid>
       <description>Den korte afstand mellem læser og redaktion er en fordel.
 De små medier er generelt mere manøvredygtige end de store. Det gælder også på indholdsstrategien.
 Det betyder at små medier kan reagere hurtigt på internationale trends.

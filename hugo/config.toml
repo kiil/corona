@@ -1,14 +1,14 @@
-baseURL = "https://www.kiils.dk/"
-languageCode = "da-dk"
-title = "Kiils"
+baseURL = "https://www.20-coronavirus-20.com/"
+languageCode = "en-us"
+title = "The 2020 coronavirus outbreak"
 theme = "ananke"
 
 MetaDataFormat = "yaml"
-DefaultContentLanguage = "da"
+DefaultContentLanguage = "en"
 footnoteReturnLinkContents = "<sup>[retur]</sup>"
 # SectionPagesMenu = "main"
 Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = "UA-89827484-1"
+googleAnalytics = ""
 enableRobotsTXT = true
 
 [markup.goldmark.renderer]
