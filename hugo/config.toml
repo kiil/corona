@@ -12,16 +12,16 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "My blog"
+    title = "Coronavirus 2020"
     weight = 1
     [languages.en.params]
-      linkedin = "https://linkedin.com/whoever"
+      # linkedin = "https://linkedin.com/whoever"
   [languages.da]
-    title = "Mon blogue"
+    title = "Coronavirus 2020"
     weight = 2
     [languages.da.params]
-      linkedin = "https://linkedin.com/fr/whoever"
-      [languages.fr.params.navigation]
+      # linkedin = "https://linkedin.com/fr/whoever"
+      [languages.da.params.navigation]
         help = "Aide"
 
 
