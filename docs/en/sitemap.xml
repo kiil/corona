@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://www.20-coronavirus-20.com/</loc>
-    <lastmod>2020-03-14T11:15:58-04:00</lastmod>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -16,6 +16,23 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.20-coronavirus-20.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.20-coronavirus-20.com/post/epilogue/</loc>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.20-coronavirus-20.com/da/post/epilogue/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.20-coronavirus-20.com/post/epilogue/"
                 />
   </url>
   
@@ -271,6 +288,40 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.20-coronavirus-20.com/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.20-coronavirus-20.com/post/prologue/</loc>
+    <lastmod>2018-01-09T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.20-coronavirus-20.com/da/post/prologue/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.20-coronavirus-20.com/post/prologue/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.20-coronavirus-20.com/post/preface/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.20-coronavirus-20.com/da/post/preface/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.20-coronavirus-20.com/post/preface/"
                 />
   </url>
   

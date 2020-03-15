@@ -6,10 +6,19 @@
     <description>Recent content in 2020: Coronavirus katastrofen on Coronavirus 2020</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2020 11:15:58 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.20-coronavirus-20.com/da/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Epilog: Af skade bliver man klog men sjældent rig</title>
+      <link>https://www.20-coronavirus-20.com/da/post/epilogue/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.20-coronavirus-20.com/da/post/epilogue/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Kapitel XII: The old, old West</title>
@@ -117,6 +126,24 @@
       
       <guid>https://www.20-coronavirus-20.com/da/post/chapter-1/</guid>
       <description>Historien starter for flere år siden &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Prolog: Problemer på vej</title>
+      <link>https://www.20-coronavirus-20.com/da/post/prologue/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.20-coronavirus-20.com/da/post/prologue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forord</title>
+      <link>https://www.20-coronavirus-20.com/da/post/preface/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.20-coronavirus-20.com/da/post/preface/</guid>
+      <description></description>
     </item>
     
   </channel>
