@@ -1,4 +1,5 @@
 ---
+weight: 500
 date: 2020-02-18T11:15:58-04:00
 description: "Poorly prepared"
 featured_image: ""
