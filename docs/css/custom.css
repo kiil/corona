@@ -14,3 +14,7 @@ table {
 
 nav#TableOfContents li > ul {margin-left: 10px;}
 nav#TableOfContents ul li {margin-top: .5em;margin-bottom: .5em;}
+
+h1.chapter::before {content:"\2767";display:block;color:#dedede;font-size:1.5em;margin-top: 1.0em;}
+
+h1.chapter, h1.chapter > a {color:#91191C;}

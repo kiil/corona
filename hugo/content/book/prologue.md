@@ -6,3 +6,5 @@ description: "The Grand Hall"
 tags: ["scene"]
 title: "Prologue: Bad moon rising"
 ---
+
+Will we ever know ...
