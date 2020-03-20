@@ -33,6 +33,7 @@ enableRobotsTXT = true
 
 
 [params]
+  mainSections = ["blog", "book"]
   favicon = ""
   description = "And how much of it could have been avoided"
   facebook = ""
