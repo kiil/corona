@@ -1,0 +1,39 @@
+[more]
+other = "Flere erfaringer"
+
+[allTitle]
+other = "Alle {{.Title }}"
+
+[recentTitle]
+other = "Seneste {{.Title }}"
+
+[readMore]
+other = "læs videre"
+
+[whatsInThis]
+other = "Indholdsfortegnelse"
+
+[related]
+other = "Lignende"
+
+[wordCount]
+other = "Indlægget har {{ .WordCount }} ord."
+
+[readingTime]
+one = "Et minut"
+other = "{{.Count}} minutter"
+
+[yourName]
+other = "Dit navn"
+
+[emailAddress]
+other = "Email-adresse"
+
+[message]
+other = "Besked"
+
+[emailRequiredNote]
+other = "Email-adresse nødvendig."
+
+[send]
+other = "Send"
