@@ -22,3 +22,12 @@ h1.chapter, h1.chapter > a {color:#91191C;}
 .wuhan-red {color:#91191C;}
 .bg-wuhan-red {background-color:#91191C;}
 .bg-wuhan-red-60 {background-color:#91191C99;}
+
+.main-menu-list > li:last-child {
+  background-color: yellow;
+  color: black!important;
+  padding: .4em!important;
+}
+.main-menu-list > li:last-child a {
+  color: black!important;
+}
