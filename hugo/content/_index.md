@@ -1,5 +1,5 @@
 ---
-title: "2020: the coronavirus catastrophe"
+title: "2020: The Coronavirus Catastrophe"
 featured_image: '/images/coronavirus.jpg'
 description: "And how much of it could have been avoided"
 ---

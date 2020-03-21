@@ -1,5 +1,5 @@
 ---
-title: "2020: Coronavirus katastrofen"
+title: "2020: Coronakatastrofen"
 featured_image: '/images/coronavirus.jpg'
 description: "Og hvordan meget af den kunne være undgået"
 ---

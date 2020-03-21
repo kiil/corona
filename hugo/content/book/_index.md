@@ -1,5 +1,5 @@
 ---
-title: "The Corona Catastrophe"
+title: "The Book"
 date: 2020-01-08T12:00:00-05:00
 ---
 Chapters are forthcoming
