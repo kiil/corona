@@ -1,6 +1,6 @@
 ---
 title: "2020: Coronavirus katastrofen"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+featured_image: '/images/coronavirus.jpg'
 description: "Og hvordan meget af den kunne være undgået"
 ---
 Hej, jeg er Lennart Kiil –

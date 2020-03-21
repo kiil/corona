@@ -1,6 +1,6 @@
 ---
 title: "2020: the coronavirus catastrophe"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+featured_image: '/images/coronavirus.jpg'
 description: "And how much of it could have been avoided"
 ---
 Hi, I'm Lennart Kiil –
