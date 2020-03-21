@@ -12,14 +12,14 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Coronavirus 2020"
+    title = "Coronavirus"
     languageName = "English 🇺🇸"
     weight = 1
     [languages.en.params]
       languageName = "English 🇺🇸"
       # linkedin = "https://linkedin.com/whoever"
   [languages.da]
-    title = "Coronavirus 2020"
+    title = "Coronavirus"
     languageName = "Dansk 🇩🇰"
     weight = 2
     [languages.da.params]
