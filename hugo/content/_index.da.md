@@ -3,7 +3,7 @@ title: "2020: Coronakatastrofen"
 featured_image: '/images/coronavirus.jpg'
 description: "Og hvordan meget af den kunne være undgået"
 images:
-- coronavirus.jpg
+- /images/coronavirus.jpg
 ---
 Hej, jeg er Lennart Kiil –
 
