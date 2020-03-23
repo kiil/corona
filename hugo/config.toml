@@ -6,7 +6,7 @@ theme = "ananke"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 24
+Paginate = 48
 googleAnalytics = "UA-89827484-2"
 enableRobotsTXT = true
 
@@ -34,6 +34,27 @@ enableRobotsTXT = true
   priority = 0.5
   filename = "sitemap.xml"
 
+  [privacy]
+    [privacy.disqus]
+      disable = false
+    [privacy.googleAnalytics]
+      anonymizeIP = false
+      disable = false
+      respectDoNotTrack = true
+      useSessionStorage = false
+    [privacy.instagram]
+      disable = false
+      simple = false
+    [privacy.twitter]
+      disable = false
+      enableDNT = false
+      simple = false
+    [privacy.vimeo]
+      disable = false
+      simple = false
+    [privacy.youtube]
+      disable = false
+      privacyEnhanced = true
 
 
 [params]

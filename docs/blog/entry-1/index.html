@@ -52,7 +52,8 @@
     
       
 <script type="application/javascript">
-var doNotTrack = false;
+var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+var doNotTrack = (dnt == "1" || dnt == "yes");
 if (!doNotTrack) {
 	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
 	ga('create', 'UA-89827484-2', 'auto');
@@ -177,7 +178,7 @@ if (!doNotTrack) {
 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="https://www.youtube.com/embed/RdYYIgdO468" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+  <iframe src="https://www.youtube-nocookie.com/embed/RdYYIgdO468" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
 <ul class="pa0">
@@ -219,11 +220,7 @@ if (!doNotTrack) {
         </li>
 	    
 	     <li  class="mb2">
-          <a href="/book/chapter-n4/">Chapter N: The Horse Whore was Right</a>
-        </li>
-	    
-	     <li  class="mb2">
-          <a href="/book/chapter-n5/">Chapter N: Lending Death a Hand</a>
+          <a href="/book/chapter-n6/">Chapter N: The Great Disruption</a>
         </li>
 	    
 	     <li  class="mb2">
@@ -231,7 +228,11 @@ if (!doNotTrack) {
         </li>
 	    
 	     <li  class="mb2">
-          <a href="/book/chapter-n6/">Chapter N: The Great Disruption</a>
+          <a href="/book/chapter-n4/">Chapter N: The Horse Whore was Right</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/book/chapter-n5/">Chapter N: Lending Death a Hand</a>
         </li>
 	    
 	     <li  class="mb2">
