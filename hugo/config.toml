@@ -56,6 +56,20 @@ enableRobotsTXT = true
       disable = false
       privacyEnhanced = true
 
+      [related]
+
+      threshold = 80
+      includeNewer = true
+      toLower = false
+
+      [[related.indices]]
+      name = "keywords"
+      weight = 100
+      [[related.indices]]
+      name  = "date"
+      weight = 10
+      pattern = "2006"
+
 
 [params]
   mainSections = ["blog", "book"]

@@ -5,6 +5,7 @@ description: "The Grand Hall"
 # featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 tags: ["scene"]
 title: "Test blog"
+keywords: ["omkey", "key"]
 ---
 
 Severeal years ago ...
