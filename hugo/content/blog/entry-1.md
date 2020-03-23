@@ -8,3 +8,11 @@ title: "Test blog"
 ---
 
 Severeal years ago ...
+
+
+
+{{< figure src="/blog/condom.jpg" title="Kondom" >}}
+
+
+
+{{< youtube RdYYIgdO468 >}}
