@@ -1,4 +1,4 @@
-title = "Coronavirus"
+title = "20-CORONAVIRUS-20"
 baseURL = "https://www.20-coronavirus-20.com"
 languageCode = "en-us"
 theme = "ananke"
@@ -12,14 +12,14 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Coronavirus"
+    title = "20-CORONAVIRUS-20"
     languageName = "English 🇺🇸"
     weight = 1
     [languages.en.params]
       languageName = "English 🇺🇸"
       # linkedin = "https://linkedin.com/whoever"
   [languages.da]
-    title = "Coronavirus"
+    title = "20-CORONAVIRUS-20"
     languageName = "Dansk 🇩🇰"
     weight = 2
     [languages.da.params]
@@ -75,13 +75,13 @@ enableRobotsTXT = true
   mainSections = ["blog", "book"]
   favicon = ""
   description = "And how much of it could have been avoided"
-  facebook = ""
-  twitter = ""
+  facebook = "https://www.facebook.com/lennartkiil/"
+  twitter = "https://twitter.com/lennartkiil/"
   instagram = ""
   youtube = ""
   github = ""
   gitlab = ""
-  linkedin = ""
+  linkedin = "https://www.linkedin.com/in/lennartkiil/"
   mastodon = ""
   slack = ""
   stackoverflow = ""
