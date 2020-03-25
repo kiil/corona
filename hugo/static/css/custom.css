@@ -31,3 +31,35 @@ h1.chapter, h1.chapter > a {color:#91191C;}
 .main-menu-list > li:last-child a {
   color: black!important;
 }
+
+article.blog-post > section > .paragraphs > p {font-size: 1rem;margin-right: auto;margin-left: auto; max-width: 24em;line-height: 1.5}
+
+@media screen and (min-width: 30em) {
+  article.blog-post > section > .paragraphs > p {
+      font-size: 1.25rem;
+  }
+}
+
+article.blog-post .pull {font-size: 1.25rem;max-width: 20em;margin-right: auto;margin-left: auto;padding-left: 0;
+    padding-right: 0; border-left:none;}
+
+@media screen and (min-width: 30em) {
+article.blog-post .pull   {
+    font-size: 3rem;
+}
+}
+
+article.blog-post .pull      {font-weight: 900;line-height: 1.5;}
+
+@media screen and (min-width: 30em) {
+article.blog-post .pull      {
+  line-height: 1.25;
+}
+}
+
+
+.sticky-top-2 {
+    position: sticky;
+    top: 2rem;
+    /* z-index: 1020; */
+}

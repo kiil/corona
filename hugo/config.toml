@@ -34,6 +34,16 @@ enableRobotsTXT = true
   priority = 0.5
   filename = "sitemap.xml"
 
+  [taxonomies]
+    brands = "brands"
+    cases = "cases"
+    cm = "cm"
+    emner = "emner"
+    kunder = "kunder"
+    tools = "tools"
+    genrer = "genrer"
+    skribenter = "skribenter"
+
   [privacy]
     [privacy.disqus]
       disable = false

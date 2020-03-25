@@ -292,40 +292,6 @@
   </url>
   
   <url>
-    <loc>https://www.20-coronavirus-20.com/da/tags/scene/</loc>
-    <lastmod>2020-02-09T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.20-coronavirus-20.com/tags/scene/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.20-coronavirus-20.com/da/tags/scene/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.20-coronavirus-20.com/da/tags/</loc>
-    <lastmod>2020-02-09T11:14:48-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.20-coronavirus-20.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.20-coronavirus-20.com/da/tags/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.20-coronavirus-20.com/da/book/</loc>
     <lastmod>2020-01-08T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -343,18 +309,130 @@
   </url>
   
   <url>
-    <loc>https://www.20-coronavirus-20.com/da/categories/</loc>
+    <loc>https://www.20-coronavirus-20.com/da/brands/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.20-coronavirus-20.com/categories/"
+                href="https://www.20-coronavirus-20.com/brands/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="da"
-                href="https://www.20-coronavirus-20.com/da/categories/"
+                href="https://www.20-coronavirus-20.com/da/brands/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.20-coronavirus-20.com/da/cases/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.20-coronavirus-20.com/cases/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.20-coronavirus-20.com/da/cases/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.20-coronavirus-20.com/da/cm/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.20-coronavirus-20.com/cm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.20-coronavirus-20.com/da/cm/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.20-coronavirus-20.com/da/emner/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.20-coronavirus-20.com/emner/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.20-coronavirus-20.com/da/emner/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.20-coronavirus-20.com/da/genrer/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.20-coronavirus-20.com/genrer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.20-coronavirus-20.com/da/genrer/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.20-coronavirus-20.com/da/kunder/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.20-coronavirus-20.com/kunder/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.20-coronavirus-20.com/da/kunder/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.20-coronavirus-20.com/da/skribenter/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.20-coronavirus-20.com/skribenter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.20-coronavirus-20.com/da/skribenter/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.20-coronavirus-20.com/da/tools/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.20-coronavirus-20.com/tools/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.20-coronavirus-20.com/da/tools/"
                 />
   </url>
   
