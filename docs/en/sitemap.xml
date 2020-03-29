@@ -467,6 +467,16 @@
     <loc>https://www.20-coronavirus-20.com/skribenter/lennart-kiil/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.20-coronavirus-20.com/da/skribenter/lennart-kiil/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.20-coronavirus-20.com/skribenter/lennart-kiil/"
+                />
   </url>
   
   <url>

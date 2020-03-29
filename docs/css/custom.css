@@ -8,9 +8,7 @@ main {
   flex: 1;
 }
 
-table {
-  border-spacing: 10px;
-}
+
 
 nav#TableOfContents li > ul {margin-left: 10px;}
 nav#TableOfContents ul li {margin-top: .5em;margin-bottom: .5em;}
@@ -32,10 +30,10 @@ h1.chapter, h1.chapter > a {color:#91191C;}
   color: black!important;
 }
 
-article.blog-post > section > .paragraphs > p {font-size: 1rem;margin-right: auto;margin-left: auto; max-width: 24em;line-height: 1.5}
+article.blog-post > section > .paragraphs > .content > p {font-size: 1rem;margin-right: auto;margin-left: auto; max-width: 30em;line-height: 1.5}
 
 @media screen and (min-width: 30em) {
-  article.blog-post > section > .paragraphs > p {
+  article.blog-post > section > .paragraphs > .content > p {
       font-size: 1.25rem;
   }
 }
@@ -62,4 +60,29 @@ article.blog-post .pull      {
     position: sticky;
     top: 2rem;
     /* z-index: 1020; */
+}
+
+.lh-copy blockquote {
+  max-width: 32em;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: sans-serif;
+}
+
+figcaption {padding: 1rem; background-color: white;}
+
+figcaption p {font-size: 1rem;}
+
+table {
+  font-size: 1rem;
+  margin: 3rem auto;
+  border-spacing: 10px;
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 2px solid #999;
+  padding: 1rem;
+  min-width: 5rem;
+  text-align: left;
 }

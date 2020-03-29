@@ -1,10 +1,11 @@
 <footer class="{{ .Site.Params.background_color_class | default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
   <div class="">
-  <p class="white-70">&copy; {{ now.Format "2006"}}</p>
-  <a class="f6 f4-ns fw4 hover-white no-underline white-70 dib pv2" href="{{ .Site.BaseURL }}" >
-   {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }}  {{ end }}
-  </a>
-    <div>{{ partial "social-follow.html" . }}</div>
+    <a class="f6 f5-ns fw4 hover-white no-underline white-70 dib pv2" href="{{ .Site.BaseURL }}" >
+     {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }}  {{ end }}
+    </a>
+  <p class="f6 white-70">Lennart Kiil &copy; {{ now.Format "2006"}}</p>
+  <div>{{ partial "social-follow.html" . }}</div>
   </div>
   <p class="f7 white-70">By using this site you accept cookies from Google Analytics and Cloudflare</p>
+  <p class="f7 white-50">Site by Kiils</p>
 </footer>
