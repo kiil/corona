@@ -113,6 +113,23 @@
   </url>
   
   <url>
+    <loc>https://www.20-coronavirus-20.com/blog/testdisqus/</loc>
+    <lastmod>2020-01-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.20-coronavirus-20.com/da/blog/testdisqus/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.20-coronavirus-20.com/blog/testdisqus/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.20-coronavirus-20.com/book/chapter-2/</loc>
     <lastmod>2020-01-19T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -334,6 +351,74 @@
   </url>
   
   <url>
+    <loc>https://www.20-coronavirus-20.com/genrer/considerations/</loc>
+    <lastmod>2020-01-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.20-coronavirus-20.com/da/genrer/considerations/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.20-coronavirus-20.com/genrer/considerations/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.20-coronavirus-20.com/genrer/</loc>
+    <lastmod>2020-01-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.20-coronavirus-20.com/da/genrer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.20-coronavirus-20.com/genrer/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.20-coronavirus-20.com/skribenter/lennart-kiil/</loc>
+    <lastmod>2020-01-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.20-coronavirus-20.com/da/skribenter/lennart-kiil/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.20-coronavirus-20.com/skribenter/lennart-kiil/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.20-coronavirus-20.com/skribenter/</loc>
+    <lastmod>2020-01-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="da"
+                href="https://www.20-coronavirus-20.com/da/skribenter/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.20-coronavirus-20.com/skribenter/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.20-coronavirus-20.com/blog/</loc>
     <lastmod>2020-01-08T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -432,22 +517,6 @@
   </url>
   
   <url>
-    <loc>https://www.20-coronavirus-20.com/genrer/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.20-coronavirus-20.com/da/genrer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.20-coronavirus-20.com/genrer/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.20-coronavirus-20.com/kunder/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -460,28 +529,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.20-coronavirus-20.com/kunder/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.20-coronavirus-20.com/skribenter/lennart-kiil/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.20-coronavirus-20.com/skribenter/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.20-coronavirus-20.com/da/skribenter/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.20-coronavirus-20.com/skribenter/"
                 />
   </url>
   
