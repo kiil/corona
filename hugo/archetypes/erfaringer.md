@@ -3,6 +3,8 @@
 summary: ""
 # featured_image: ""
 
+# disable_comments: true
+
 description: ""
 # thumbnail: ""
 
