@@ -10,6 +10,8 @@ Paginate = 48
 googleAnalytics = "UA-89827484-2"
 enableRobotsTXT = true
 
+disqusShortname = "20-coronavirus-20"
+
 [languages]
   [languages.en]
     title = "20-CORONAVIRUS-20"
