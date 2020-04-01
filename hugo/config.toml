@@ -48,7 +48,7 @@ disqusShortname = "20-coronavirus-20"
 
   [privacy]
     [privacy.disqus]
-      disable = false
+      disable = true
     [privacy.googleAnalytics]
       anonymizeIP = false
       disable = false
