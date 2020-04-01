@@ -38,22 +38,14 @@ article.blog-post > section > .paragraphs > .content > p {font-size: 1rem;margin
   }
 }
 
-article.blog-post .pull {font-size: 1.25rem;max-width: 20em;margin-right: auto;margin-left: auto;padding-left: 0;
-    padding-right: 0; border-left:none;}
+article.blog-post .pull {max-width: 20em;margin-right: auto;margin-left: auto;padding-left: 0;
+    padding-right: 0; border-left:none; font-weight: 900;}
 
-@media screen and (min-width: 30em) {
-article.blog-post .pull   {
-    font-size: 3rem;
-}
-}
+article.blog-post .f-headline-l {font-size: 10rem;}
 
-article.blog-post .pull      {font-weight: 900;line-height: 1.5;}
 
-@media screen and (min-width: 30em) {
-article.blog-post .pull      {
-  line-height: 1.25;
-}
-}
+
+
 
 
 .sticky-top-2 {
