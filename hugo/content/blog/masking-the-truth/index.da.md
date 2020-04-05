@@ -11,13 +11,13 @@ skribenter:
   - lennart-kiil
 
 genrer:
-  - Considerations
+  - Erkendelser
 
 images:
   - /images/coronavirus.jpg
 ---
 
-## Myndighederne har løjet om ansigtsmasker {.pull .f2 .f1-m .f-subheadline-l .lh-solid-l}
+## Myndighederne har løjet om ansigtsmasker {.pull .f2 .f1-m .f-subheadline-l .lh-title-l}
 
 Severeal years ago ...
 
