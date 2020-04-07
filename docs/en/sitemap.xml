@@ -113,23 +113,6 @@
   </url>
   
   <url>
-    <loc>https://www.20-coronavirus-20.com/blog/testdisqus/</loc>
-    <lastmod>2020-01-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.20-coronavirus-20.com/da/blog/testdisqus/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.20-coronavirus-20.com/blog/testdisqus/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.20-coronavirus-20.com/book/chapter-2/</loc>
     <lastmod>2020-01-19T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -372,16 +355,6 @@
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.20-coronavirus-20.com/da/skribenter/lennart-kiil/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.20-coronavirus-20.com/skribenter/lennart-kiil/"
-                />
   </url>
   
   <url>
@@ -412,23 +385,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.20-coronavirus-20.com/skribenter/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.20-coronavirus-20.com/genrer/considerations/</loc>
-    <lastmod>2020-01-09T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="da"
-                href="https://www.20-coronavirus-20.com/da/genrer/considerations/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.20-coronavirus-20.com/genrer/considerations/"
                 />
   </url>
   
