@@ -2,7 +2,7 @@
 weight: 100
 date: 2020-01-09T10:58:08-04:00
 description: "The Grand Hall"
-# draft: true
+draft: true
 # featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 tags: ["scene"]
 title: "Masking the Truth"
@@ -28,3 +28,11 @@ Why would authorities lie? That will be the subject for another post.
 
 
 To cover up for bad planning – that is my best guess at the moment. I believe that this is at least part of the explanation.
+
+Platos noble lie may partly explain why authorities did not tell the truth about face masks.
+
+But it does not explain why authorities did not trust the people to understand that health and care workers in the front line had the biggest need for face masks.
+
+People would have understood that.
+
+Now everybody is in a worse position and precious time have been wasted.
