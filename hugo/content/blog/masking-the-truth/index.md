@@ -1,6 +1,6 @@
 ---
 date: 2020-04-07
-description: "Lying and deceiving"
+description: "Lying and deceiving authorities"
 # draft: true
 # featured_image: "/images/coronavirus.jpg"
 tags: ["face masks, PPE, public misinformation"]
