@@ -14,7 +14,7 @@ genrer:
   - Realizations
 
 images:
-  - /images/coronavirus.jpg
+  - /blog/masking-the-truth/mask.jpg
 ---
 
 {{< figure src="mask.jpg" title="Man wearing mask" attr="Unsplash" >}}
