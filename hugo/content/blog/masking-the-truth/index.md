@@ -1,9 +1,8 @@
 ---
-weight: 100
 date: 2020-04-07
 description: "Lying and deceiving"
 # draft: true
-featured_image: "/images/coronavirus.jpg"
+# featured_image: "/images/coronavirus.jpg"
 tags: ["face masks, PPE, public misinformation"]
 title: "Masking the Truth"
 summary: "Early february I realized that authorities were lying. Lying about something very important."
