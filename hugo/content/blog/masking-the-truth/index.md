@@ -46,11 +46,11 @@ For starters, the fact that health personnel and others taking care of infected 
 
 That in itself more than suggests there is an effect on disease transmission.
 
-Furthermore there is common sense and logic.
+Furthermore, there is common sense and logic.
 
 A disease of the respiratory system that infects, amongst other ways, through and via the nose and mouth – why in the world would a face mask, that acts as a barrier in front of the nose and mouth, have no impact on disease transmission?
 
-Then of course there were studies showing an effect. In all fairness, other studies have found litlle or no effect. But at the time this coronavirus was a new disease, so why not take the pratical experience into consideration?
+Then of course, there were studies showing an effect. In all fairness, other studies have found litlle or no effect. But at the time this coronavirus was a new disease, so why not take the pratical experience into consideration?
 
 Evidence for the efficacy of face masks mounted. Face masks made not just a difference, but a very big one at that. One preprint study of N95 respirators (filtering face masks) posted February 19, that I quoted on Folkets Avis on the 1. of march, found:
 
@@ -89,7 +89,7 @@ That claim translated is something along these lines "the new coronavirus does n
 
 Little more than a month after this claim was made the governemt urged people to stay at home and away from the streets.
 
-It is interesting that both the claim that face masks do not work, and the claim that the virus does not spread by casual interaction in the street were made with such self-assurance and confidence.
+It is interesting that both the claim that face masks do not work, and the claim that the virus does not spread by casual interaction in the street, were made with such self-assurance and confidence.
 
 It is obvious that the knowledge about the coronavirus at that stage was still very much forthcoming. So why did they feel they could make such bold and sweeping claims and give so clear cut advice?
 
@@ -99,11 +99,11 @@ Advice completely dismissing the face masks Asian countries with experience from
 
 Like Asian countries knew nothing and authorities in Western countries knew it all.
 
-This arrogance and overconfidence of Western authorities struck me at the time as being strange. I mentioned it in a video a made, in Danish though.
+This arrogance and overconfidence of Western authorities struck me at the time as being strange. I mentioned it in a video a made back then, it is in Danish though:
 
 {{< youtube RdYYIgdO468 >}}
 
-Authorities and state medie could have at least said they were unsure about face mask, and about the transmission routes of the new coronavirus, etc. But instead they made up ill-advised claims that in turn led to ill-advised mitigation efforts closing down entire societies.
+Authorities and state media could have at least said they were unsure about face mask, and about the transmission routes of the new coronavirus, etc. But instead they made up ill-advised claims that in turn led to ill-advised mitigation efforts closing down entire societies.
 
 Without face masks the only remedy was social isolation and distancing.
 
