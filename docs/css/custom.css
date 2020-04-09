@@ -69,8 +69,8 @@ article.blog-post .f-headline-l {font-size: 10rem;}
 }
 
 figure {
-    margin-inline-start: 10px;
-    margin-inline-end: 10px;
+    margin-inline-start: 5px;
+    margin-inline-end: 5px;
 }
 
 figcaption {padding: 1rem; background-color: white;}
