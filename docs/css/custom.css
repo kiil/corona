@@ -68,6 +68,11 @@ article.blog-post .f-headline-l {font-size: 10rem;}
   font-family: sans-serif;
 }
 
+figure {
+    margin-inline-start: 10px;
+    margin-inline-end: 10px;
+}
+
 figcaption {padding: 1rem; background-color: white;}
 
 table {
